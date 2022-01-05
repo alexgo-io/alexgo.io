@@ -1,5 +1,3 @@
 # alexgo.io
 
-ALEXGO OFFICE WEBSITE
-
-made by Webflow
+ALEXGO website, hosted on Webflow
